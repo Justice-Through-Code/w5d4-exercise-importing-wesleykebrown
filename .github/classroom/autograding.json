@@ -1,12 +1,12 @@
 {
   "tests": [
     {
-      "name": "test importing",
+      "name": "Test world",
       "setup": "pip install numpy",
       "run": "python3 -m unittest",
       "input": "",
       "output": "",
-      "comparison": "included",
+      "comparison": "exact",
       "timeout": 2,
       "points": null
     }
